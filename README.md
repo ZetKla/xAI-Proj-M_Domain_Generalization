@@ -3,6 +3,6 @@ Repository for the Master project xAI-Proj-M: Domain Generalization for Robust M
 
 Student: Henri Ganz \
 StudentID: MDCR  \
-PhoneID: A52: Samsung A52 \
+PhoneID: A52: Samsung A52 
 
 the images are uploaded in the format: studentID_phoneID-classname_imageID.jpg
