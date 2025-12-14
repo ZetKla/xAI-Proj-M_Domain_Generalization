@@ -5,4 +5,4 @@ Student: Henri Ganz \
 StudentID: MDCR  \
 PhoneID: A52: Samsung A52 
 
-the images are uploaded in the format: studentID_phoneID-classname_imageID.jpg
+the images are uploaded in the format: studentID_phoneID_classname_imageID.jpg
